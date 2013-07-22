@@ -1,0 +1,2 @@
+Inicijalna verzija datoteke.
+

@@ -6,3 +6,7 @@ VERZIJA 1.0
 
 ovaj tekst je u grani 1.
 
+
+
+A ovaj je dodan u grani 2.
+
